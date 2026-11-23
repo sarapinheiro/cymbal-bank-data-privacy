@@ -1,0 +1,5 @@
+project_id             = "your-gcp-project-id"
+region                 = "europe-west1"
+dataset_id             = "cymbal_retail_banking"
+admin_user             = "your-username@your-domain.com"
+protect_table_on_apply = true

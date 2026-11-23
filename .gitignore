@@ -1,0 +1,11 @@
+# Local environment and secrets
+terraform.tfvars
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# System & OS
+.DS_Store
+*.log
+/tmp/
